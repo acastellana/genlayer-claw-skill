@@ -1,7 +1,7 @@
 ---
 name: genlayer-claw-skill
 version: 1.0.0
-description: Understand and explain GenLayer - the AI-native blockchain for trustless decision-making. Use for investor pitches, protocol explanations, architecture questions, consensus mechanics, positioning, and ecosystem discussions. Triggers: explain genlayer, what is genlayer, genlayer thesis, optimistic democracy, genlayer pitch, genlayer architecture, condorcet jury theorem, equivalence principle, AI blockchain, trustless AI. (For writing contracts, use genlayer-dev-claw-skill instead.)
+description: Understand and explain GenLayer - the AI-native blockchain for trustless decision-making. Use for investor pitches, protocol explanations, architecture questions, consensus mechanics, positioning, and ecosystem discussions. Triggers: explain genlayer, what is genlayer, genlayer thesis, optimistic democracy, genlayer pitch, genlayer architecture, condorcet jury theorem, equivalence principle, AI blockchain, trustless AI. (For writing contracts, use genlayer-write-contract instead.)
 ---
 
 # GenLayer Knowledge Skill
